@@ -1,0 +1,2 @@
+The value of variable C is 0 and 
+the value of variable C not changed before return statement even //c=a+b code of line is commented(comment is not a part of execution)
